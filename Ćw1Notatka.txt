@@ -1,0 +1,19 @@
+Zarządzanie: Stwórz, odczytaj, zaktualizuj, usuń (CRUD)
+(create, read, update, delete)
+
+System informatyczny - dowolny projekt informatyczny 
+
+Projektowanie systemu informatycznego:
+
+- Cel
+- Kto będzie tego używał? (Lista użytkowników - aktorzy) / Use Case - Przypadek użycia
+----- Typy aktorów:
+	- człowiek
+	- inny system
+	- coś abstrakcyjnego (np. czas)
+
+
+Praca domowa:
+Wybrać temat i narysować rysunek (diagram przypadków użycia) - składa się z przypadków użycia i aktorów
+
+
