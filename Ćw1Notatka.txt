@@ -14,6 +14,6 @@ Projektowanie systemu informatycznego:
 
 
 Praca domowa:
-Wybrać temat i narysować rysunek (diagram przypadków użycia) - składa się z przypadków użycia i aktorów
+Wybrać temat i narysować rysunek (diagram przypadków użycia) - składa się z przypadków użycia i aktorów (Diagram UML - diagram przypadków użycia)
 
 
