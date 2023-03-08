@@ -23,8 +23,9 @@ Typy związków:
 
 
 
-Praca domowa: Nauczyć się typów związków.
+Praca domowa: Nauczyć się typów związków. Research do naszego projektu. (po 5 komentarzy na + i na -)
 
 Żeby zrobić use case'a:
 - czasownik w trybie rozkazującym + rzeczownik
+
 
