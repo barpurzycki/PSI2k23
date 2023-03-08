@@ -1,0 +1,30 @@
+Diagram przypadków użycia:
+
+Po co to jest?
+
+	System informatyczny:
+	- Posiada otoczkę (ograniczenia)
+	- Funkcjonalności - dynamika (Diagram Przypadków Użycia)
+	- Struktura danych (dane) - statyka (Diagram klas, Diagram obiektów)
+
+Projektowanie systemu:
+1. Narysuj jego cel i powiedz dla kogo jest (Znajdź wszystkich użytkowników)
+2. 
+
+
+Aktor to obiekt zewnętrzny w stosunku do systemu, który kolaboruje z systemem.
+Przypadek użycia to zbiór akcji/ czynności, które może wykonać dany aktor.
+Związek to powiązanie między dwoma obiektami.
+Typy związków:
+- zawierania
+- rozszerzenia
+- generalizacja
+- asocjacja 
+
+
+
+Praca domowa: Nauczyć się typów związków.
+
+Żeby zrobić use case'a:
+- czasownik w trybie rozkazującym + rzeczownik
+
